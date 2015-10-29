@@ -63,7 +63,7 @@ fms.ajax({
 
 
 ### 模拟任何后端模板引擎渲染
-
+- [PHP Echo](https://github.com/nimojs/fms-phpecho)
 - [PHP Smarty](https://github.com/nimojs/fms-smarty)
 
 
