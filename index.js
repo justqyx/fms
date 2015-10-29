@@ -11,6 +11,7 @@ var ajax = require('./lib/ajax')
 var doc = require('./lib/doc')
 module.exports = {
     run: require('./lib/init'),
+    chance: require('chance'),
     app: null,
     _set: function (name, value) {
         this[name] = value
