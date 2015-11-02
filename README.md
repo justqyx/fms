@@ -1,6 +1,8 @@
 # FMS
 > Front Mock Server | 前端数据模拟服务器
 
+[![Build Status](https://travis-ci.org/nimojs/fms.png?branch=master)](https://travis-ci.org/nimojs/fms)
+
 <a href="http://fms.help/" target="_blank" class="btn btn-info">在线文档</a>
 <a href="http://demo.fms.help/" target="_blank" class="btn btn-danger">在线示例</a>
 
