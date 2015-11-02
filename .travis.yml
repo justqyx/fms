@@ -12,6 +12,6 @@ only:
 
 install:
 - npm install
-
+- npm install mocha -g
 script:
 - npm run test
