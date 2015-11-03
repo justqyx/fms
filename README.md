@@ -3,6 +3,10 @@
 
 [![Build Status](https://api.travis-ci.org/nimojs/fms.svg)](https://travis-ci.org/nimojs/fms)
 
+[![NPM](https://nodei.co/npm-dl/fms.png)](https://nodei.co/npm/fms/)
+[![NPM](https://nodei.co/npm/fms.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/fms/)
+
+
 <a href="http://fms.help/" target="_blank" class="btn btn-info">在线文档</a>
 <a href="http://demo.fms.help/" target="_blank" class="btn btn-danger">在线示例</a>
 
