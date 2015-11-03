@@ -1,7 +1,7 @@
 {
   "homepage": "http://fms.help",
   "name": "fms",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "前端数据模拟环境，提供 AJAX 模拟与后端 MVC 中 View 层渲染模拟解决方案。",
   "main": "index.js",
   "author": {
