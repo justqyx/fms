@@ -17,8 +17,9 @@
     "test5": "mocha test/handle.js",
     "test6": "mocha test/password.js",
     "test7": "mocha test/port.js",
-    "test7": "mocha test/port.js",
-    static-2.js
+    "test8": "mocha test/static.js",
+    "test9": "mocha test/static-2.js",
+    "test10": "mocha test/static-3.js"
   },
   "license": "MIT",
   "dependencies": {
