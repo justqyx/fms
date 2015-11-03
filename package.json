@@ -9,7 +9,16 @@
     "email": "nimo.jser@gmail.com"
   },
   "scripts": {
-    "test": "mocha test/port.js"
+    "test": "mocha test/port.js",
+    "test1": "mocha test/connect.js",
+    "test2": "mocha test/port.js",
+    "test3": "mocha test/cookies-fms.js",
+    "test4": "mocha test/getHandle.js",
+    "test5": "mocha test/handle.js",
+    "test6": "mocha test/password.js",
+    "test7": "mocha test/port.js",
+    "test7": "mocha test/port.js",
+    static-2.js
   },
   "license": "MIT",
   "dependencies": {
