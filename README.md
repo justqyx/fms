@@ -58,7 +58,7 @@ fms.ajax({
             </pre>
         </td>
         <td>
-            ![doc](http://fms.help/static/img/readme-1.png)
+            <img src="http://fms.help/static/img/readme-1.png"  />
         </td>
     </tr>
 </table>
