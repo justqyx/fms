@@ -25,3 +25,4 @@ script:
 - npm run test8
 - npm run test9
 - npm run test10
+- npm run test11

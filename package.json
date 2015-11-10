@@ -19,7 +19,8 @@
     "test7": "mocha test/port.js",
     "test8": "mocha test/static.js",
     "test9": "mocha test/static-2.js",
-    "test10": "mocha test/static-3.js"
+    "test10": "mocha test/static-3.js",
+    "test11": "mocha test/ajax.settings.res.js"
   },
   "license": "MIT",
   "dependencies": {
